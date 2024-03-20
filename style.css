@@ -1,0 +1,97 @@
+img{
+    width: 610px;
+    height: 824px;
+}
+
+ #main{
+    position: absolute;
+    width: 675px;
+    height: 202px;
+    top: 140px;
+    left: 640px;
+
+    #subMain{
+        color:  #6F7CB2;
+        font-family: sans-serif;
+        font-size: 16px;
+    }
+    
+    #title{
+        font-family: sans-serif;
+        font-size: 30px;
+    }
+}
+
+
+
+#dorminhoco{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 402px;
+    left: 640px;
+    
+    #title1{
+        font-family: sans-serif;
+    }
+
+    #p1{
+        font-family: sans-serif;
+        color: #5D6970;
+    }
+}
+
+#preguiçoso{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 402px;
+    left: 990px; 
+
+    #title2{
+        font-family: sans-serif;
+    }
+
+    #p2{
+        font-family: sans-serif;
+        color: #5D6970
+    }    
+}
+
+#independente{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 563px;
+    left: 640px;
+
+    #title3{
+        font-family: sans-serif;
+    }
+
+    #p3{
+        font-family: sans-serif;
+        color: #5D6970
+    }
+}
+
+#arisco{
+    position: absolute;
+    width: 325px;
+    height: 121px;
+    top: 563px;
+    left: 990px;
+    
+    #title4{
+        font-family: sans-serif;
+    }
+
+    #p4{
+        font-family: sans-serif;
+        color: #5D6970
+    }
+}
+
+h1{
+   color:  #091133;
+}
